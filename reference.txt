@@ -32,3 +32,7 @@ MLOps and llmops reference book
 
 https://www.databricks.com/resources/ebook/the-big-book-of-mlops
 
+azure free account
+
+https://azure.microsoft.com/en-us/pricing/purchase-options/azure-account
+
