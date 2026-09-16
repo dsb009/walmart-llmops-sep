@@ -28,4 +28,7 @@ llmops - overview and best practices
 
 https://www.tredence.com/llmops
 
+MLOps and llmops reference book
+
+https://www.databricks.com/resources/ebook/the-big-book-of-mlops
 
