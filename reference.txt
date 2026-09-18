@@ -7,6 +7,8 @@ https://learn.microsoft.com/en-us/users/me/achievements?redeem=XVXYM6
 
 https://learn.microsoft.com/en-us/training/paths/build-operate-machine-learning-solutions-azure-databricks/
 
+https://learn.microsoft.com/en-us/training/paths/data-engineer-azure-databricks/
+
 Additional labs references
 
 LLMOps on azure databricks reference sources
