@@ -1,3 +1,10 @@
+
+Linkedin : https://www.linkedin.com/in/jayaprakashbalakrishnan/
+
+Achievement Code
+
+https://learn.microsoft.com/en-us/users/me/achievements?redeem=XVXYM6
+
 Additional labs references
 
 LLMOps on azure databricks reference sources
