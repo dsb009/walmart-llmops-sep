@@ -9,6 +9,8 @@ https://learn.microsoft.com/en-us/training/paths/build-operate-machine-learning-
 
 https://learn.microsoft.com/en-us/training/paths/data-engineer-azure-databricks/
 
+https://microsoftlearning.github.io/mslearn-databricks/
+
 Additional labs references
 
 LLMOps on azure databricks reference sources
